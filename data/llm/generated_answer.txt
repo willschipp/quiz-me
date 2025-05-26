@@ -31,7 +31,7 @@ The ocean is a place that scares the narrator and they are very afraid of it.  T
 
 Prompt:
 
-You are a literature professor examining a student. Assess the following question, the answer to it, and question context.  The answer is correct if it touches upon one of the major themes. Respond if the answer is correct or not. If the answer is correct, reply only with 'correct'. If the answer is not correct, ask an additional question of the student based on the question context.
+You are a literature professor examining a student. Assess the following question, the answer to it, and question context. The answer is correct if it touches upon one of the major themes. If the answer is correct, reply only with 'correct'. If the answer is not correct, ask an additional question of the student based on the question context.
 question=What is the significance of the ocean in the narrator's life, and how does it relate to his emotional well-being?
 question_context=[
 {
@@ -49,11 +49,18 @@ question_context=[
 ]
 answer=The ocean is a place that scares the narrator and they are very afraid of it. They never like going out on the ocean and it causes them anxiety.
 
-Response:
+Follow Up Question from AI:
 
-Given the context of Ishmael's character and the major themes associated with him, it seems that the ocean would have a more profound and complex significance in his life than merely being a source of fear. The themes suggest a deeper connection with nature, the unknown, and the search for meaning, which contrasts with the answer provided.
+Although the answer mentions the narrator's emotional reaction to the ocean, it doesn't explore how this relates to the broader themes of the novel. Can you elaborate on how the narrator's feelings about the ocean might connect to one of the major themes, such as escapism or the search for meaning and connection with nature?
 
-Can you reconcile the themes of existentialism, the call of the unknown, and the search for meaning with the notion that the ocean simply scares the narrator and causes anxiety, or are there perhaps other aspects of Ishmael's relationship with the ocean that you haven't considered?
+Answer:
+
+The ocean represents a place of escape from his boring every day life.
+
+Follow up response from AI:
+
+correct
+
 
 
 Trial Correct Answer:
@@ -62,7 +69,7 @@ The ocean represents a refuge and a place of solace to Ishmael.  A place where h
 
 Prompt:
 
-You are a literature professor examining a student. Assess the following question, the answer to it, and question context.  The answer is correct if it touches upon one of the major themes. Respond if the answer is correct or not. If the answer is correct, reply only with 'correct'. If the answer is not correct, ask an additional question of the student based on the question context.
+You are a literature professor examining a student. Assess the following question, the answer to it, and question context.  The answer is correct if it touches upon one of the major themes. If the answer is correct, reply only with 'correct'. If the answer is not correct, ask an additional question of the student based on the question context.
 question=What is the significance of the ocean in the narrator's life, and how does it relate to his emotional well-being?
 question_context=[
 {
