@@ -1,2 +1,5 @@
 beautifulsoup4==4.13.3
 EbookLib==0.19
+pypdf2==3.0.1
+pymupdf==1.26.0
+filetype==1.2.0
